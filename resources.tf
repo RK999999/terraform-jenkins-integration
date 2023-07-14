@@ -5,3 +5,4 @@ resource "aws_instance" "terraform" {
   tags = {
   Name = "tf server"
   }
+}
